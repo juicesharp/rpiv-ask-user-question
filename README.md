@@ -6,7 +6,7 @@ user requests. Replaces Claude Code's `AskUserQuestion`.
 
 ## Installation
 
-    pi install npm:rpiv-ask-user-question
+    pi install npm:@juicesharp/rpiv-ask-user-question
 
 Then restart your Pi session.
 

@@ -1,9 +1,22 @@
 {
-  "name": "rpiv-ask-user-question",
+  "name": "@juicesharp/rpiv-ask-user-question",
   "version": "0.1.0",
   "description": "Pi extension: structured ask_user_question tool for disambiguation prompts",
   "keywords": ["pi-package", "pi-extension", "rpiv"],
   "type": "module",
+  "license": "MIT",
+  "author": "juicesharp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juicesharp/rpiv-ask-user-question.git"
+  },
+  "homepage": "https://github.com/juicesharp/rpiv-ask-user-question#readme",
+  "bugs": {
+    "url": "https://github.com/juicesharp/rpiv-ask-user-question/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "pi": {
     "extensions": ["./index.ts"]
   },
