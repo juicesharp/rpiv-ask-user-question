@@ -8,7 +8,7 @@
  * Extracted from rpiv-pi@7525a5d. Tool name preserved verbatim.
  */
 
-import type { ExtensionAPI } from "@mariozechner/pi-coding-agent";
+import type { ExtensionAPI } from "@earendil-works/pi-coding-agent";
 import { registerAskUserQuestionTool } from "./ask-user-question.js";
 
 export default function (pi: ExtensionAPI) {

@@ -1,5 +1,5 @@
-import { visibleWidth, wrapTextWithAnsi } from "@mariozechner/pi-tui";
-import type { Component } from "@mariozechner/pi-tui";
+import { visibleWidth, wrapTextWithAnsi } from "@earendil-works/pi-tui";
+import type { Component } from "@earendil-works/pi-tui";
 
 export interface WrappingSelectItem {
 	label: string;

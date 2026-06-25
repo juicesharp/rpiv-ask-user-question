@@ -1,5 +1,5 @@
-import { type ExtensionAPI, DynamicBorder, type Theme } from "@mariozechner/pi-coding-agent";
-import { Container, Spacer, Text, getKeybindings } from "@mariozechner/pi-tui";
+import { type ExtensionAPI, DynamicBorder, type Theme } from "@earendil-works/pi-coding-agent";
+import { Container, Spacer, Text, getKeybindings } from "@earendil-works/pi-tui";
 import { Type } from "@sinclair/typebox";
 import {
 	WrappingSelect,
